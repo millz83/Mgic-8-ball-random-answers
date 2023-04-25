@@ -1,0 +1,15 @@
+body 
+ {
+     background-color:grey;
+}
+   
+ div {
+     font-size: 20px;
+     margin: 10px;
+     color:yellow;
+ }
+  
+ button {
+     cursor: pointer;
+     background-color:peachpuff;
+ }
